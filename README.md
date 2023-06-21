@@ -99,6 +99,18 @@ To run tests, run the following command:
 - GitHub: [@aima98](https://github.com/aima98)
 - LinkedIn: [Oumaima Nejjari](https://www.linkedin.com/in/oumaima-nejjari-375065171/)
 
+👤 **kimita wanjohi**
+
+- GitHub: [@kimitawanjohi](https://github.com/kimitawanjohi)
+- Twitter: [@kimitaw](https://twitter.com/kimitaw)
+- LinkedIn: [@kimitawanjohi](https://linkedin.com/in/kimitawanjohi)
+
+👤 **Osman Wako**
+
+- GitHub: [@osmanwako](https://github.com/osmanwako)
+- Twitter: [@osmanWakow](https://twitter.com/osmanwakow)
+- LinkedIn :[@osmanWako](https://www.linkedin.com/in/osmanwako/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
